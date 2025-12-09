@@ -1,0 +1,210 @@
+.topbox{
+    background: #171d25;
+    height: 100px;
+    width:100%;
+}
+body{
+    margin:0px;
+}
+.topbox1{
+    background: #171d25;
+    height: 100px;
+    width: 63%;
+    margin: 0px auto;
+}
+.logo{
+    background:#171d25;
+    height: 60px;
+    width: 170px;
+    float:inline-start;
+    padding-top: 30px;
+}
+.top-text{
+    height:60px;
+    width:620px;
+    background:#171d25;
+ padding-top: 30px;
+}
+.text1{
+    float: left;
+    margin-left: 10px;
+    color: white;
+    font-size:16x;
+    font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.install{
+    
+    background: #171d25;
+    float: inline-end;
+    
+    height: 26px;
+    width: 252px;
+    /* padding-top: 30px; */
+    margin-top:-85px ;
+}
+.install-button{
+    background: #171d25;
+    height: 26px;
+    width: 111px;
+}
+.p{
+    margin:0px;
+    font-size: 10px;
+    color: white;
+    margin-top: -22px;
+    margin-left: 120px;
+    font-size: 15px;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    width: 40px;
+}
+
+.install-text{
+    float:inline-end;
+    background: yellow;
+    width:90px ;
+    height: 26px;
+    margin-top:-21px;
+} 
+#language{
+    background-color: #171d25;
+    height:26px;
+    width: 100px;
+    color: white;
+    border-color: #171d25;
+}
+.scndtopbox{
+    height:50px;
+    width: 100%;
+    /* background: radial-gradient(107.95% 57.49% at 50% 100%, #18253533 0%, #18253585 5%, #182535d9 20%, #182535 60%, #192330 100%); */
+    border-bottom: 2px solid;
+    background: #1b2838;
+    border-bottom-color: #171d25;
+}
+#options{
+    height: 50px;
+    width:610px;
+    background: transparent;
+    margin-left: 333px;
+}
+.option{
+    margin-left: 16px;
+    margin-top: 16px;
+    border-color:transparent;
+    background-color: transparent;
+    color: white;
+}
+.mainbody{
+    height: 1906px;
+    width: 1905px;
+    background: #1b2838;
+}
+.maincontent{
+    height:513px;
+    width: 1905px;
+    background:#1b2838 ;
+    /* padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    overflow: hidden; */
+}
+.searchbar{
+    height:37px ;
+    width:500px;
+    background: #1b2838;
+    float: inline-end;
+    margin-top: -43px;
+    padding-right: 326px;
+}
+.search{
+    height: 32px;
+    width: 424px;
+    background-color:#80808059;
+    color:white;
+    border-color:white;
+    border:1px;
+}
+.search-logo{
+    height: 34px;
+    width:37px;
+    float:right;
+    background: #171d25;
+    margin-right: 35px;
+}
+.mainheading{
+    height:119px;
+    width: 90%;
+    background:#1b2838;
+    margin-left: 100px;
+}
+.content-title{
+    font-family: "Motiva Sans", Sans-serif;
+    color: white;
+    margin: 0px;
+    padding-left: 383px;
+    padding-top: 89px;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    font-weight: normal;
+}
+.mainimage1{
+    height: 351px;
+    width: 940px;
+    background: brown;
+    margin-left: 476px;
+}
+.maincontent-box{
+    /* display: flex; */
+    height: 406px;
+    width: 100%;
+    background-color: #1b2838;
+    /* justify-content: center;
+    align-items: center; */
+
+}
+.left-arrow{
+    height: 110px;
+    width: 41px;
+    background: #171d25;
+    margin-top: -230px;
+    margin-right: 448px;
+    float: right;
+}
+.right-arrow{
+    height: 110px;
+    width: 41px;
+    background: #171d25;
+    position: absolute;
+    left: 435px;
+    top: 390px;
+}
+.right-arrow1{
+    height: 110px;
+    width: 41px;
+    background: #171d25;
+
+    position: absolute;
+    top: 855px;
+    left: 435px;
+}
+.left-arrow1{
+    height: 110px;
+    width: 41px;
+    background: #171d25;
+    margin-top: -212px;
+    margin-right: 448px;
+    float: right;}
+    
+    .maincontent1{
+    height:513px;
+    width: 1905px;
+    background:#1b2838 ;
+    /* padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    overflow: hidden; */
+    margin-top: -65px;
+}
