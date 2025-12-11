@@ -96,7 +96,7 @@ body{
     color: white;
 }
 .mainbody{
-    height: 1906px;
+    height: 1905px;
     width: 1905px;
     background: #1b2838;
 }
@@ -118,7 +118,7 @@ body{
     margin-top: -43px;
     padding-right: 326px;
 }
-.search{
+    .search{
     height: 32px;
     width: 424px;
     background-color:#80808059;
@@ -126,20 +126,20 @@ body{
     border-color:white;
     border:1px;
 }
-.search-logo{
+    .search-logo{
     height: 34px;
     width:37px;
     float:right;
     background: #171d25;
     margin-right: 35px;
 }
-.mainheading{
+    .mainheading{
     height:119px;
     width: 90%;
     background:#1b2838;
     margin-left: 100px;
 }
-.content-title{
+    .content-title{
     font-family: "Motiva Sans", Sans-serif;
     color: white;
     margin: 0px;
@@ -149,13 +149,13 @@ body{
     letter-spacing: 0.03em;
     font-weight: normal;
 }
-.mainimage1{
+    .mainimage1{
     height: 351px;
     width: 940px;
     background: brown;
     margin-left: 476px;
 }
-.maincontent-box{
+    .maincontent-box{
     /* display: flex; */
     height: 406px;
     width: 100%;
@@ -164,35 +164,35 @@ body{
     align-items: center; */
 
 }
-.left-arrow{
+    .left-arrow{
     height: 110px;
     width: 41px;
-    background: #171d25;
+    background: #16202d;
     margin-top: -230px;
     margin-right: 448px;
     float: right;
 }
-.right-arrow{
+    .right-arrow{
     height: 110px;
     width: 41px;
-    background: #171d25;
+    background: #16202d;
     position: absolute;
     left: 435px;
     top: 390px;
 }
-.right-arrow1{
+    .right-arrow1{
     height: 110px;
     width: 41px;
-    background: #171d25;
+    background: #16202d;
 
     position: absolute;
     top: 855px;
     left: 435px;
 }
-.left-arrow1{
+    .left-arrow1{
     height: 110px;
     width: 41px;
-    background: #171d25;
+    background: #16202d;
     margin-top: -212px;
     margin-right: 448px;
     float: right;}
@@ -208,3 +208,99 @@ body{
     overflow: hidden; */
     margin-top: -65px;
 }
+/* .text2{
+       float: left;
+    margin-left: 10px;
+    color: white;
+    font-size:16x;
+    font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;
+    padding-left: 10px;
+    margin-left: 10px;
+    color: white;
+    font-size:16x;
+    font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;
+    padding-left: 10px;   
+} */
+ .sub-content{
+    height:300px;
+    width: 1905px;
+    background:#1b2838 ;
+    margin-top: 103px;  
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    position: relative;
+ }
+ .sub-images{
+    background: black;
+    /* margin-top: 30px; */
+    height: 219px;
+    width: 225px;
+    
+    margin-bottom: 41px;
+    /* padding-left: 50px; */
+    margin-top:-36px;
+    border-radius: 5px;
+ }
+ .sub-text{
+    margin-left: 486px;
+    flex-basis: 100%;
+    margin-top: 0px;
+    color: white;
+    font-family: "Motiva Sans", Sans-serif;
+    font-size: 14px;
+ }
+ .sub-photos{
+    height:219px ;
+    width: 225px;
+    border-radius: 5px;
+ }
+ .sub-leftarrow{
+    height: 110px;
+    width: 41px;
+    background: #16202d;
+    margin-left: 0px;
+    position: absolute;
+    left: 447px;
+    bottom: 104px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+ }
+ .sub-rightarrow{
+    height: 110px;
+    width: 41px;
+    background: #16202d;
+    margin-left: 0px;
+    position: absolute;
+    right: 447px;
+    bottom: 104px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+ }
+ .signin{
+    height: 202px;
+    width: 1905px;
+    background: transparent;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .signin-box{
+    height:160px ;
+    width:940px;
+    background:#16202d;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+ }
